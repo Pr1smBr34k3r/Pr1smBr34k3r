@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Matrix](http://root666.net/matrix.gif)
+![Matrix]([http://root666.net/matrix.gif](https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif))
 ![top green line](green_lights.gif)
 <!-- 
 ![Alt text](running_light.gif)
