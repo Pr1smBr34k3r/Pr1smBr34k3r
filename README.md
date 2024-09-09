@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Alt text](green_lights.gif)
+![Matrix](http://root666.net/matrix.gif)
+![top green line](green_lights.gif)
 <!-- 
 ![Alt text](running_light.gif)
 ![Alt text](running_ribbon.gif)
@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 -->
 I'd like to share a revelation that I've had during my time here. It came to me when I tried to classify your species and I realized that you're not actually mammals. Every mammal on this planet instinctively develops a natural equilibrium with the surrounding environment but you humans do not. You move to an area and you multiply and multiply until every natural resource is consumed and the only way you can survive is to spread to another area. There is another organism on this planet that follows the same pattern. Do you know what it is? A virus. Human beings are a disease, a cancer of this planet. You're a plague and we are the cure. 
 
-![Alt text](green_lights.gif)
+![bottom green line](green_lights.gif)
