@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![Alt text](green_lights.gif)
+![Alt text](running_light.gif)
+![Alt text](running_ribbon.gif)
+![Alt text](violet_bar.gif)
